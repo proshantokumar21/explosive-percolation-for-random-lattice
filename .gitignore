@@ -2,3 +2,5 @@ bond_percolation_stochastic_lattice.ipynb
 stochastic lattice bond percolation.ipynb
 explosive percolation.ipynb
 explosive percolation 2.ipynb
+.vscode
+log_n_factorial.npy
